@@ -1,0 +1,9 @@
+---
+setup:
+  python_version: "3.9"  # Ajusta la versión según tus necesidades
+  app_dir: .            # Directorio raíz de la aplicación
+  command: passenger_wsgi.py  # Archivo WSGI que arranca tu app
+deploy:
+  tasks:
+    - pip install --upgrade pip
+    - pip install -r requirements.txt
