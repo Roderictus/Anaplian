@@ -1,14 +1,33 @@
-Flask
+# https://www.youtube.com/watch?v=rKVgINFyjPA&ab_channel=DynamicTechnologies
 
-boto3
-botocore
-sqlalchemy
-earthengine-api
-shapely
-folium
-geojson
-branca
-pandas
-geopandas
-Flask
-Werkzeug
+blinker == 1.8.1
+click==8.1.7
+flas==3.0.3
+importlib-metadata==7.1.0
+itsdangerous==2.2.0
+Jinja2==3.1.3
+MarkupSafe==2.1.5
+Werkzeug==2.0.3
+zipp==3.18.1
+
+################ gee    ##############
+# alembic~=1.11.1
+# bcrypt~=4.0.1
+# celery~=5.3.1
+# elasticsearch~=8.8.2
+# fastapi~=0.100.0
+# Jinja2~=3.1.2
+# passlib~=1.7.4
+# Pillow~=10.0.0
+# psycopg2~=2.9.6
+# pydantic-settings~=2.0.2
+# pydantic[email]~=2.1.1
+# python-dotenv~=1.0.0
+# python-jose[cryptography]~=3.3.0
+# python-multipart~=0.0.6
+# requests~=2.31.0
+# SQLAlchemy~=2.0.19
+# tenacity~=8.2.2
+# uvicorn~=0.23.1
+
+
